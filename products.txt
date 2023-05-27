@@ -1,0 +1,9 @@
+Musée;1;25;6.00;grand
+Thekingdom;2;15;6.00;moyen
+Leparfum;3;10;6.00;petit
+Dunne;4;15;6.00;moyen
+ManonLescaut;30;3;6.00;grand
+Rougeetlenoir;5;30;6.00;petit
+Lesâmesmortes;6;20;6.00;moyen
+Happyplace;9;30;24.00;petit
+HOBBIT;9;20;5.00;moyen
